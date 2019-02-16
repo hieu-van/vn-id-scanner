@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Trình quét ID</string>
+    <string name="scan_bhyt">Quét BHYT</string>
+    <string name="scan_cccd">Quét CCCD</string>
+    <string name="bhyt_id">Mã số</string>
+    <string name="bhyt_name">Họ và tên</string>
+    <string name="dialog_title">Xin lỗi :(</string>
+    <string name="dialog_message">Tính năng này chưa được hoàn thiện.</string>
+    <string name="birth_date">Ngày sinh</string>
+    <string name="gt">Giới tính</string>
+    <string name="addr">Địa chỉ</string>
+    <string name="dkkchbd">Nơi ĐK KCB BĐ</string>
+    <string name="hsd">Thời hạn sử dụng</string>
+    <string name="cqbh">Mã CQBH</string>
+    <string name="cap">Ngày cấp</string>
+    <string name="male">Nam</string>
+    <string name="female">Nữ</string>
+    <string name="scan_message">Đưa ống kính vào mã vạch để quét (Bấm nút tăng âm lượng để bật flash)</string>
+    <string name="about">Giới thiệu</string>
+    <string name="dev">Nhà phát triển</string>
+    <string name="scan_error_title">Lỗi</string>
+    <string name="scan_error">Dữ liệu đọc được không hợp lệ.</string>
+</resources>
