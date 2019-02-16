@@ -13,5 +13,5 @@ This app scans for and decodes data encoded in QR codes which are commonly found
 - [ ] Store hospital database in something other than in-line code, such as SQL.
 
 ## Credits
-* Me ([hieu-van](https://github.com/hieu-van)): Author, Maintainer
-* [hoanglong7802](https://github.com/hoanglong7802): Hospital Database Maintainer
+* Me ([hieutvan](https://github.com/hieutvan)): Author, maintainer
+* [hoanglong7802](https://github.com/hoanglong7802): Hospital database maintainer
